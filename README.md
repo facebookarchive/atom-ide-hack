@@ -3,6 +3,8 @@
 This plugin provides basic IDE support for Hack when using `atom-ide`; a
 full-featured experience is available as part of [Nuclide](https://nuclide.io).
 
+Atom-IDE and Nuclide are both currently unmaintained - we strongly recommend using Visual Studio Code and `vscode-hack` instead.
+
 ## Examples
 
 ![screenshot of lint errors](example.png)
